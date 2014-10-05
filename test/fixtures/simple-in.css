@@ -1,0 +1,14 @@
+
+body {
+  width: 100%;
+}
+
+body > header {
+  prop: calc(3px * 2);
+  prop: calc(3px * 2) 1em;
+  prop: 1em calc(3px * 2);
+  prop: calc(3px * 2) 1em calc(3px * 2);
+  prop: 1em calc(3px * 2) 1em calc(3px * 2);
+  prop: 1em calc(3px * 2) 1em calc(3px * 2) 1em;
+  font-size: calc((6em / 2) + 1em);
+}

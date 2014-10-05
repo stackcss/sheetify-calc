@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+}
+
+body > header {
+  prop: 6px;
+  prop: 6px 1em;
+  prop: 1em 6px;
+  prop: 6px 1em 6px;
+  prop: 1em 6px 1em 6px;
+  prop: 1em 6px 1em 6px 1em;
+  font-size: 4em;
+}
